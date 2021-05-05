@@ -1,0 +1,93 @@
+*{
+    margin: 0;
+    padding: 0;
+    
+}
+
+body{
+    font-family: 'Goudy Bookletter 1911', serif;
+    
+    background-size: 100%;
+}
+
+.techintro{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-image: url("/images/bg.jpg");
+    background-attachment: fixed;
+    width: 100;
+    height: 300px;
+}
+
+.skills{
+    background-image: url("/images/bg15.jfif");
+    background-size: 100%;
+    background-attachment: fixed;
+    width: 100;
+    height: 300px;
+    padding: 0;
+    margin: 0;
+}
+
+.bor{
+    border-radius: 20px;
+}
+
+.resintro{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-image: url("/images/bg.jpg");
+    background-attachment: fixed;
+    width: 100;
+    height: 300px;
+}
+
+.cointro{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-image: url("/images/0.jfif");
+    background-size: 100%;
+    background-attachment: fixed;
+    width: 100;
+    height: 300px;
+}
+
+
+
+@media only screen and (min-width:576px) {
+    
+}
+
+@media only screen and (min-width:768px) {
+    
+}
+
+@media screen and (min-width:992px) {
+body {
+    background: lightblue;
+    }
+}
+
+@media screen and (min-width:1200px) {
+.abc{
+    font-size: 2.5rem;
+}
+}
+
+@media screen and (min-width:1400px) {
+.abc{
+    font-size: 2.5rem;
+}
+}
+
+
+.big{
+    background-color: rgb(153, 204, 255);
+    
+}
+
+
+
